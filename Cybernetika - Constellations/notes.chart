@@ -9,8 +9,8 @@
   Resolution = 192
   Player2 = bass
   Difficulty = 8
-  PreviewStart = 60
-  PreviewEnd = 90
+  PreviewStart = 0
+  PreviewEnd = 0
   Genre = "Drum n Bass"
   MediaType = "cd"
   MusicStream = "song.ogg"
