@@ -1,0 +1,48 @@
+[Song]
+{
+  Name = "Project Shadow"
+  Artist = "Abigor"
+  Charter = "Stickheadz32"
+  Album = "Fractal Possession"
+  Year = ", 2007"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 11
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Avant-garde/Black Metal"
+  MediaType = "cd"
+  MusicStream = "song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 177750
+  1536 = B 200000
+  16128 = B 220000
+  99072 = B 200000
+  124416 = B 220000
+}
+[Events]
+{
+  1536 = E "section Axis 1"
+  16128 = E "section Clenching"
+  22272 = E "section Distinguish"
+  28416 = E "section Annihilation"
+  40704 = E "section Transfixation 1"
+  46848 = E "section Emissivity 1"
+  56064 = E "section Scorch 1"
+  68352 = E "section Transfixation 2"
+  77568 = E "section Emissivity 2"
+  86784 = E "section Scorch 2"
+  99072 = E "section Dividal 2"
+  109824 = E "section Axis 2"
+  124416 = E "section Annihilation 2"
+  135936 = E "section Shadow"
+  148992 = E "section Nothingness A"
+  161280 = E "section Nothingness B"
+  173568 = E "section Open your eyes"
+  185856 = E "section Out of the dark"
+  198144 = E "section Outro"
+}
