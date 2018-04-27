@@ -9,8 +9,8 @@
   Resolution = 192
   Player2 = bass
   Difficulty = 6
-  PreviewStart = 0
-  PreviewEnd = 0
+  PreviewStart = 5
+  PreviewEnd = 35
   Genre = "Cinematic"
   MediaType = "cd"
   MusicStream = "song.ogg"

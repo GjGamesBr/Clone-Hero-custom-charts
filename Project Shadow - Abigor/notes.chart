@@ -9,8 +9,8 @@
   Resolution = 192
   Player2 = bass
   Difficulty = 11
-  PreviewStart = 0
-  PreviewEnd = 0
+  PreviewStart = 25
+  PreviewEnd = 55
   Genre = "Avant-garde/Black Metal"
   MediaType = "cd"
   MusicStream = "song.ogg"
@@ -3948,10 +3948,8 @@
   16192 = N 2 320
   16256 = N 1 256
   16320 = N 0 192
-  21312 = N 1 0
-  21360 = N 2 0
-  21408 = N 3 0
-  21456 = N 4 0
+  21312 = N 0 0
+  21376 = N 1 0
   21504 = N 4 576
   21504 = S 2 816
   21568 = N 3 512
