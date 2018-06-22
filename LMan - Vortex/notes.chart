@@ -1,0 +1,97 @@
+[Song]
+{
+  Name = "Vortex"
+  Artist = "LMan"
+  Charter = "Stickheadz32"
+  Year = ", 2016"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Chiptune"
+  MediaType = "cd"
+  MusicStream = "song.ogg"
+  GuitarStream = "guitar.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 174000
+  1536 = B 187960
+}
+[Events]
+{
+  1536 = E "section Intro"
+  7680 = E "section Low pass beat"
+  13824 = E "section Square wave verse 1"
+  19968 = E "section Arp synth 1"
+  26112 = E "section Saw wave string 1"
+  38400 = E "section Saw wave chorus 1"
+  50688 = E "section Digital sample break"
+  62976 = E "section Square wave verse 2"
+  69120 = E "section Saw wave chorus 2"
+  81408 = E "section Saw wave string 2"
+  93696 = E "section Saw wave string 3"
+  105984 = E "section Outro"
+}
+[ExpertSingle]
+{
+  1536 = N 4 0
+  1632 = N 3 0
+  1728 = N 2 0
+  1824 = N 3 0
+  1920 = N 1 96
+  2112 = N 2 0
+  2208 = N 0 0
+  2304 = N 1 0
+  2400 = N 2 0
+  2496 = N 3 0
+  2592 = N 4 0
+  2688 = N 1 96
+  2880 = N 2 0
+  2976 = N 0 0
+  3072 = N 4 0
+  3168 = N 3 0
+  3264 = N 2 0
+  3360 = N 3 0
+  3456 = N 1 96
+  3648 = N 2 0
+  3744 = N 0 0
+  3840 = N 1 0
+  3936 = N 2 0
+  4032 = N 3 0
+  4128 = N 4 0
+  4224 = N 1 96
+  4416 = N 2 0
+  4512 = N 0 0
+  4608 = N 4 0
+  4704 = N 3 0
+  4800 = N 2 0
+  4896 = N 3 0
+  4992 = N 1 96
+  5184 = N 2 0
+  5280 = N 0 0
+  5376 = N 1 0
+  5472 = N 2 0
+  5568 = N 3 0
+  5664 = N 4 0
+  5760 = N 1 96
+  5952 = N 2 0
+  6048 = N 0 0
+  6144 = N 4 0
+  6240 = N 3 0
+  6336 = N 2 0
+  6432 = N 3 0
+  6528 = N 1 96
+  6720 = N 2 0
+  6816 = N 0 0
+  6912 = N 1 0
+  7008 = N 2 0
+  7104 = N 3 0
+  7200 = N 4 0
+  7296 = N 1 96
+  7488 = N 2 0
+  7584 = N 0 0
+}

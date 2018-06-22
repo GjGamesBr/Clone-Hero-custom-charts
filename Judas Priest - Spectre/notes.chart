@@ -1,0 +1,56 @@
+[Song]
+{
+  Name = "Spectre"
+  Artist = "Judas Priest"
+  Charter = "Stickheadz32"
+  Album = "Firepower"
+  Year = ", 2018"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Heavy Metal"
+  MediaType = "cd"
+  MusicStream = "song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 128250
+  1344 = B 150000
+  54144 = B 145000
+  55296 = B 150000
+  56064 = B 145000
+  56832 = B 150000
+  57600 = B 145000
+  58368 = B 150000
+  66048 = B 152000
+  72192 = B 155000
+  78336 = B 154000
+  84480 = B 154000
+  90624 = B 154000
+  96000 = B 150000
+  96768 = B 150000
+}
+[Events]
+{
+  1440 = E "section Intro"
+  6912 = E "section Riff"
+  13440 = E "section Verse 1"
+  26016 = E "section Chorus 1"
+  32160 = E "section Spectre 1"
+  34944 = E "section Verse 2"
+  41376 = E "section Chorus 2"
+  53760 = E "section Spectre 2"
+  58368 = E "section Bridge"
+  66048 = E "section Solo A"
+  72192 = E "section Solo B"
+  78336 = E "section Solo C"
+  84480 = E "section Solo D"
+  90624 = E "section Hook"
+  96768 = E "section Verse 3"
+  108960 = E "section Chorus 3"
+  121248 = E "section Spectre 3"
+}
