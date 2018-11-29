@@ -9,8 +9,8 @@
   Resolution = 192
   Player2 = bass
   Difficulty = 8
-  PreviewStart = 30
-  PreviewEnd = 60
+  PreviewStart = 0
+  PreviewEnd = 0
   Genre = "Progressive Metal"
   MediaType = "cd"
   MusicStream = "song.ogg"
@@ -2270,23 +2270,23 @@
 }
 [Events]
 {
-  1536 = E "section Indo-Guinean War 2088"
-  4608 = E "section Limbic Telestimulator"
-  19968 = E "section Valmet TK-8008"
-  26112 = E "section Battle Walker"
-  29184 = E "section Wings Like Razors"
-  35328 = E "section Radar Eyes"
-  47616 = E "section Thighs of Steel"
-  53760 = E "section Chaingun Arms"
+  1536 = E "section Intro"
+  4608 = E "section Bassline 1"
+  19968 = E "section Riff 1"
+  26112 = E "section Riff 2"
+  29184 = E "section Main riff 1"
+  35328 = E "section Melody 1"
+  47616 = E "section Main riff 2"
+  53760 = E "section Bassline 2"
   59904 = E "section CANNON ANGEL"
-  66048 = E "section Nullification"
-  72192 = E "section HV-APE slugs"
-  78336 = E "section Crazed bliss"
-  84480 = E "section Remote stimulation"
-  93600 = E "section Dual chainguns"
-  96768 = E "section Permanent trace"
-  102912 = E "section Into the fire"
-  115200 = E "section Writhing"
+  66048 = E "section GROOVE A"
+  72192 = E "section GROOVE B"
+  78336 = E "section GROOVE C"
+  84480 = E "section Bassline 3"
+  93600 = E "section Riff 4"
+  96768 = E "section Main riff 3"
+  102912 = E "section Melody 2"
+  115200 = E "section Outro"
 }
 [ExpertSingle]
 {
