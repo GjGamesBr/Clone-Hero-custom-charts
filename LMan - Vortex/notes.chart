@@ -8,8 +8,8 @@
   Resolution = 192
   Player2 = bass
   Difficulty = 0
-  PreviewStart = 10
-  PreviewEnd = 50
+  PreviewStart = 0
+  PreviewEnd = 0
   Genre = "Chiptune"
   MediaType = "cd"
   MusicStream = "song.ogg"
